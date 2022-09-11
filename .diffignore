@@ -1,0 +1,12 @@
+*.nft.json
+*.pack
+
+trace
+eslint
+
+.tsbuildinfo
+
+required-server-files.json
+prerender-manifest.json
+pages-manifest.json
+
