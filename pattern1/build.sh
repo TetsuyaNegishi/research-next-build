@@ -2,8 +2,8 @@
 
 cd v3
 rm -rf .next
-npm run build
+npm run build -- --no-lint
 
 cd ../v4
 rm -rf .next
-npm run build
+npm run build -- --no-lint

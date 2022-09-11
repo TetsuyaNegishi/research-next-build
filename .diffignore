@@ -2,7 +2,6 @@
 *.pack
 
 trace
-eslint
 
 .tsbuildinfo
 
